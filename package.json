@@ -1,0 +1,32 @@
+{
+    "name": "e-commerce-hw13",
+    "version": "1.0.0",
+    "description": "eCommerce Back End",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js",
+        "watch": "nodemon server.js",
+        "seed": "node seeds/index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com:Nicog124/e-commerce-hw13.git"
+    },
+    "keywords": [],
+    "author": "Nicholas Ganim",
+    "license": "MIT",
+    "devDependencies": {
+        "nodemon": "^2.0.3"
+    },
+    "dependencies": {
+        "dotenv": "^8.2.0",
+        "express": "^4.17.1",
+        "mysql2": "^2.1.0",
+        "sequelize": "^5.22.3"
+    },
+    "bugs": {
+        "url": "https://github.com/Nicog124/e-commerce-hw13/issues"
+    },
+    "homepage": "https://github.com/Nicog124/e-commerce-hw13#readme"
+}
