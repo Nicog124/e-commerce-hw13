@@ -31,4 +31,4 @@ MIT License
 ![hw13sc-3](https://user-images.githubusercontent.com/78495603/116010519-64afb100-a5ed-11eb-8fed-2104c92f7bfd.png)
 
 
-Not able to get Insomnia to work and show my repo unfortunantley
+Not able to get Insomnia to work and show my repo and I can't figure out why
