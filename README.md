@@ -2,7 +2,7 @@
 
 ## Description 
 
-This is a project which was developed for the University of Arizona Coding Bootcamp course. The application contained within is a database and functional backend. 
+The application contained within is a database and functional backend. 
 
 ## Table of Contents 
 
